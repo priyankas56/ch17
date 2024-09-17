@@ -1,0 +1,27 @@
+package com.xworkz.interface1.internal;
+
+public interface CollegeRule {
+	
+		String AttendClassesRegularly();
+
+		String SubmitAssignmentsonTime();
+
+		boolean MaintainAcademicIntegrity();
+
+		String ParticipateinClass();
+
+		String FollowExamRules();
+
+		String UseCampusResourcesResponsibly();
+
+		boolean NoUnauthorizedAccess();
+
+		boolean RespectFacultyandStaff();
+
+		boolean FollowSafetyProtocols();
+
+		String NoVandalism();
+
+	}
+
+
