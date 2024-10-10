@@ -89,4 +89,3 @@ public class WeatherDTO implements Serializable{
 	
 
 }
--
